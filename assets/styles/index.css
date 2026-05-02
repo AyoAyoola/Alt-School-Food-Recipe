@@ -1,0 +1,56 @@
+html, body {
+    font-family: Arial, sans-serif;
+    background-color: #a88c8c;
+    margin: 0;
+    padding: 0;
+}
+section {
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+.spag-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: #5f1717;
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+} 
+
+nav a {
+    color: #5f1717;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: larger;
+}
+
+.spag-image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 680px;
+    height: 540px;
+    object-fit: cover;
+}
+
+.chicken-image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 680px;
+    height: 540px;
+}
+.spag-image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 680px;
+    height: 540px;
+}
